@@ -1,0 +1,125 @@
+Build me a world-class, VC-ready startup marketing website for a company called “Bargo”.
+
+Create a website for my new startup idea. The pich deck pdf has been provided.
+
+The website must feel like a high-end AI startup backed by top-tier VC firms (aesthetic similar to Palantir, Stripe, Scale AI, and OpenAI landing pages).
+
+## 🔥 Core Objective
+Create a landing page that instantly communicates:
+- Massive problem in retail supply chains
+- Clear AI-native solution (Bargo)
+- Strong narrative of transformation from fragmented systems → autonomous retail coordination
+- Enterprise-grade credibility
+
+## 🧠 Content Structure (must follow this exactly)
+
+### 1. Hero Section
+- Bold headline:
+  “From fragmented retail systems to autonomous supply chain intelligence”
+- Subheadline:
+  “Bargo is an AI orchestration layer that unifies retail data, predicts demand, and automates inventory decisions in real time.”
+- CTA buttons:
+  “Request Demo” + “Talk to Founders”
+- Subtle animated background (AI/grid/data flow theme)
+
+---
+
+### 2. Problem Section
+Show clearly:
+- Retail systems are fragmented (ERP, WMS, POS don’t talk)
+- Forecasting is manual, reactive, and inaccurate
+- No real-time visibility across inventory and demand
+- Decisions are siloed across teams
+
+Make it visually strong with cards or a split layout.
+
+---
+
+### 3. Solution Section
+Explain Bargo as:
+- Unified intelligence layer for retail operations
+- Connects all retail systems into one data layer
+- Continuously forecasts demand + supply risk
+- Automates replenishment decisions
+- Orchestrates AI agents across supply chain workflows
+
+Include a “system diagram style” UI (even if simplified).
+
+---
+
+### 4. How It Works (3 steps)
+1. Connect retail systems (ERP / WMS / POS)
+2. AI models forecast demand + detect risk
+3. Autonomous agents execute inventory decisions
+
+---
+
+### 5. Market Validation Section
+Include strong investor-facing signals:
+- 75% of retailers believe AI agents are essential
+- AI is shifting from experimentation → core operations
+- Retail AI spending is rapidly increasing
+- Even 1–2% efficiency improvement = billions in value
+
+Make it feel data-driven and credible.
+
+---
+
+### 6. Business Model
+Show:
+- Per-store subscription
+- API usage pricing
+- Premium AI agent workflows
+
+---
+
+### 7. Vision Section
+Big statement:
+“From fragmented operations → autonomous retail coordination system”
+
+Make it visually dramatic and bold.
+
+---
+
+### 8. CTA Section
+- “Join early design partners”
+- “Book a demo”
+- “Build the future of retail intelligence with us”
+
+---
+
+## 🎨 Design Requirements (VERY IMPORTANT)
+- Minimal, premium, dark-mode first design
+- Neon/gradient accents (blue, purple, cyan)
+- Smooth animations (subtle, not flashy)
+- Glassmorphism cards
+- High spacing, clean typography (Inter / SF Pro style)
+- Must feel like Stripe + OpenAI + Palantir hybrid
+
+---
+
+## ⚙️ Tech Stack
+- Next.js (preferred) OR React (if simpler)
+- TailwindCSS
+- Framer Motion animations
+- Fully responsive mobile + desktop
+- SEO optimized
+- Fast loading
+
+---
+
+## 💡 Extra Credit (if possible)
+- Add subtle AI animation background (data flow / nodes)
+- Add “scroll storytelling” effect
+- Add interactive diagram of retail systems → Bargo → autonomous output
+
+---
+
+## 🚨 Tone
+- Extremely confident
+- Investor-grade language
+- No fluff
+- No generic startup clichés
+- Must sound like a real Series A/B company
+
+Build the full production-ready landing page.
